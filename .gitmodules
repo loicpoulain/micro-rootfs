@@ -1,0 +1,3 @@
+[submodule "buildroot/tree"]
+	path = buildroot/tree
+	url = git://git.buildroot.net/buildroot

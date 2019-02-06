@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# exemple of script run from init (/etc/init.d/S99micro)
+echo "cmdline: " $(cat /proc/cmdline)
+
+exit 0
