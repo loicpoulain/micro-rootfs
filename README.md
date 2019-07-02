@@ -2,7 +2,8 @@ micro-rootfs - Generate a minimal Linux root file system
 ========================================================
 
 This project relies on buildroot to generate a minimal BusyBox based file
-system. The resulting rootfs can then be loaded as an initramfs.
+system. The resulting rootfs, usually smaller than 1MB can then be loaded
+as an initramfs or standard rootfs file.
 
 micro-rootfs is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
