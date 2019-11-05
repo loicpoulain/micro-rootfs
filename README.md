@@ -13,6 +13,13 @@ License](LICENSE.md), or (at your option) any later version.
 This project has been inspired-by and derived-from the kgdbtest project:
 - https://github.com/daniel-thompson/kgdbtest
 
+
+Prebuilts
+---------
+
+micro-rootfs prebuilts are available at http://people.linaro.org/~loic.poulain/micro-rootfs/.
+
+
 Building
 --------
 
